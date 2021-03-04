@@ -14,11 +14,10 @@ GEM
     cliver (0.3.2)
     coderay (1.1.1)
     diff-lcs (1.2.5)
-    docker-api (1.28.0)
-      excon (>= 0.38.0)
-      json
-    excon (0.49.0)
-    json (1.8.3)
+    docker-api (2.1.0)
+      excon (>= 0.47.0)
+      multi_json
+    excon (0.79.0)
     method_source (0.8.2)
     mime-types (3.1)
       mime-types-data (~> 3.2015)
